@@ -1,6 +1,8 @@
 Pizza Ordering ChatBot using Dialogflow and Firebase.
 
-Steps:
+
+ Steps:
+    
      1. Write Order Pizza 
     
      2. Write name of Pizaa(eg. Farm House/Peppy Paneer/PANEER MAKHANI) 
@@ -17,8 +19,13 @@ Steps:
      now Customer able to see their order status by entering their contact number again which is given before by customer.
      
      
-     Below is link of My Yo-Yo-Piza-Bot: 
+    
+    
+    
+    
+  Below is link of My Yo-Yo-Pizza-Bot: 
      
-     https://bot.dialogflow.com/e9c5ce73-566a-4298-af3c-1b44e33c0c77
+  https://bot.dialogflow.com/e9c5ce73-566a-4298-af3c-1b44e33c0c77
      
      
+  
