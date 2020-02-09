@@ -4,4 +4,4 @@ This is a simple pizza ordering bot
 
 
 
-Step to access to chatbot
+Step to access to chatbotv
